@@ -1,5 +1,5 @@
 import "./sidebar.css";
-import logo from './Manvi.jpeg';
+import logo from './harsh.copy1.jpeg';
 
 export default function Sidebar() {
   return (
@@ -7,7 +7,7 @@ export default function Sidebar() {
       <div className="sidebaritem">
           <span className="sidebartitle">ABOUT ME</span>
           <img src={logo} alt="logo" />
-          <p>I am Manvi Goyal. I am an undergraduate student at ABES Engineering College, Ghaziabad.
+          <p>I am Harsh Shukla. I am an undergraduate student at ABES Engineering College, Ghaziabad.
             I have started this blogging website out of my interest in technology and as a part of my project development.
             Apart from academics and project point of view, I shall keep you all updated with my latest posts and blogs.
           </p>
